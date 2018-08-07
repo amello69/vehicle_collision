@@ -1,5 +1,5 @@
 # vehicle_collision
-This project analyzes traffic collection data collected by the NYPD in NYC.
+This project analyzes traffic collision data collected by the NYPD in NYC.
 The analysis seeks to answer several questions which are stated in the jupyter notebook file, 'collision_analysis.ipynb'
 The respository has the following files:
 * collision_analysis.ipynb - the jupyter notebook with code and visualizations and findings
